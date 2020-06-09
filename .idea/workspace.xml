@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="237e5a97-1add-44c1-a56b-f5e73957dc96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/git/test/Git.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/git/test/Git.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/git/test/Git.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="60">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding>
                 <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
@@ -140,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591666210778</updated>
-      <workItem from="1591666213862" duration="2581000" />
+      <workItem from="1591666213862" duration="3851000" />
     </task>
     <task id="LOCAL-00001" summary="我的git项目">
       <created>1591668670018</created>
@@ -149,11 +149,32 @@
       <option name="project" value="LOCAL" />
       <updated>1591668670018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="我的git项目">
+      <created>1591668818890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591668818890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="我的git项目">
+      <created>1591668959231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591668959231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="我的git项目">
+      <created>1591669162418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591669162418</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2581000" />
+    <option name="totallyTimeSpent" value="3851000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -201,8 +222,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/git/test/Git.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="60">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
