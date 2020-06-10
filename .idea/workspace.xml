@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="237e5a97-1add-44c1-a56b-f5e73957dc96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/git/test/Git.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/git/test/Git.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/git/test/Git.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
                 <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#117#118#0" expanded="true" />
@@ -42,9 +41,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591666210778</updated>
-      <workItem from="1591666213862" duration="5188000" />
+      <workItem from="1591666213862" duration="3965000" />
     </task>
     <task id="LOCAL-00001" summary="我的git项目">
       <created>1591668670018</created>
@@ -181,39 +177,11 @@
       <option name="project" value="LOCAL" />
       <updated>1591670088899</updated>
     </task>
-    <task id="LOCAL-00006" summary="我的git项目">
-      <created>1591670193196</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1591670193196</updated>
-    </task>
-    <task id="LOCAL-00007" summary="我的git项目">
-      <created>1591670270225</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1591670270226</updated>
-    </task>
-    <task id="LOCAL-00008" summary="我的git项目">
-      <created>1591670690336</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1591670690336</updated>
-    </task>
-    <task id="LOCAL-00009" summary="我的git项目">
-      <created>1591670737800</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1591670737800</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5188000" />
+    <option name="totallyTimeSpent" value="3965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -224,14 +192,14 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21018593" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21018593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3179396" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="LuaCheck" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -262,7 +230,7 @@
     <entry file="file://$PROJECT_DIR$/src/git/test/Git.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
